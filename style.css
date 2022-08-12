@@ -3,8 +3,8 @@
 } */
 @media(max-width:912px) {
     .logo-sp{
-        position: inherit;
-        margin-left: 50%;
+         position: relative;
+        margin-left: 70px;
     }
     .content-1{
         margin-top: 150px;
